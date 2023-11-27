@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Receipts>
+  <Receipt Id="PNK1" Username="stocker" Quantity="18" Total="20310000" Date="08/08/2023">
+    <ReceiptDetail Id="1" ProductID="E102" Name="Tai nghe Sony Xperia Z1" Producer="Sony" PriceInput="2000000" PriceOutput="2872000" Quantity="10" Total="20000000" />
+    <ReceiptDetail Id="2" ProductID="P350" Name="Cốc sứ" Producer="Thành Công" PriceInput="50000" PriceOutput="71800" Quantity="5" Total="250000" />
+    <ReceiptDetail Id="3" ProductID="F0793" Name="Pizza" Producer="FastFood" PriceInput="20000" PriceOutput="28720" Quantity="3" Total="60000" />
+  </Receipt>
+</Receipts>

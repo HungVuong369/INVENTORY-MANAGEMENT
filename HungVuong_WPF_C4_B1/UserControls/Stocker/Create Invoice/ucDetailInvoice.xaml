@@ -1,0 +1,156 @@
+﻿<UserControl x:Class="HungVuong_WPF_C4_B1.ucDetailInvoice"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:HungVuong_WPF_C4_B1"
+             mc:Ignorable="d" 
+             Background="#ECF0F1"
+             d:DesignHeight="1000" d:DesignWidth="1000">
+    <UserControl.Resources>
+        <local:Converter x:Key="converter" />
+        <local:IndexDataGridItemConverter x:Key="indexDataGridItemConverter" />
+    </UserControl.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Column="0">
+            <Label Content="Chi tiết phiếu xuất kho" 
+                   HorizontalAlignment="Center" 
+                   FontSize="20"
+                   FontWeight="SemiBold"
+                   ></Label>
+            <Grid Grid.Row="0" Margin="10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <TextBlock Grid.Column="0" Margin="5 0 0 0"
+                           FontSize="15"
+                       Text="{Binding InvoiceVM.Invoice.InvoiceID, StringFormat='Mã phiếu nhập kho: {0}', Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                       ></TextBlock>
+
+                <TextBlock Grid.Column="1"
+                           FontSize="15"
+                           Text="{Binding InvoiceVM.Invoice.Username, StringFormat='Người tạo: {0}', Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                       ></TextBlock>
+
+                <TextBlock Grid.Column="2"
+                           Text="{Binding InvoiceVM.Invoice.TotalQuantity, StringFormat='Tổng số lượng sản phẩm: {0}', Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                           FontSize="15"
+                       ></TextBlock>
+
+                <TextBlock Grid.Column="3"
+                           FontSize="15"
+                           Text="{Binding InvoiceVM.Invoice.TotalPrice, StringFormat='Tổng số tiền: {0:N0} VND', Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                       ></TextBlock>
+
+                <TextBlock Grid.Column="4"
+                           FontSize="15"
+                           Text="{Binding InvoiceVM.Invoice.CreatedAt, StringFormat='Ngày tạo: {0:dd/MM/yyyy}', Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                       ></TextBlock>
+            </Grid>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1">
+            <Grid Name="grdDetail">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+            </Grid>
+
+            <Label Grid.Column="0" Content="Vui lòng chọn sản phẩm!" FontSize="15"
+                   Margin="10 0 0 0"/>
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel>
+                    <DataGrid x:Name="dgProducts" Margin="10" AutoGenerateColumns="False"
+                              AlternatingRowBackground="#F2F2F2" SelectionMode="Single" IsReadOnly="True"
+                              SelectionChanged="dgProducts_SelectionChanged"
+                              RowHeight="50" Grid.Column="0" Height="420">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="STT" Width="50">
+                                <DataGridTextColumn.Binding>
+                                    <Binding RelativeSource="{RelativeSource Mode=FindAncestor, AncestorType={x:Type DataGridRow}}"
+                                     Converter="{StaticResource indexDataGridItemConverter}" />
+                                </DataGridTextColumn.Binding>
+                            </DataGridTextColumn>
+
+                            <DataGridTextColumn Header="Mã" Binding="{Binding Id}" Width="45" />
+                            <DataGridTextColumn Header="Tên" Binding="{Binding Name}" Width="145" />
+                            <DataGridTextColumn Header="Nhà sản xuất" Binding="{Binding Producer}" Width="100" />
+                            <DataGridTextColumn Header="Số lượng" Binding="{Binding Quantity}" Width="100" >
+                                <DataGridTextColumn.ElementStyle>
+                                    <Style TargetType="TextBlock">
+                                        <Setter Property="HorizontalAlignment" Value="Right"/>
+                                        <Setter Property="Margin" Value="5"/>
+                                    </Style>
+                                </DataGridTextColumn.ElementStyle>
+                            </DataGridTextColumn>
+                            <DataGridTextColumn Header="Giá bán" Binding="{Binding PriceOutput, StringFormat=' {0:N0} VND'}" Width="100" />
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                    <StackPanel Name="spQuantity" Orientation="Horizontal" Margin="10">
+                        <TextBlock Text="Số lượng: " FontSize="18"></TextBlock>
+                        <TextBox Name="txtQuantity" Width="100" IsEnabled="False"
+                                 TextChanged="txtQuantity_TextChanged"
+                                 PreviewTextInput="txtQuantity_PreviewTextInput"
+                                 FontSize="18"
+                                 Margin="20 0"></TextBox>
+
+                        <Button Name="btnIncrease" Content="+" 
+                                Width="35" Click="btnIncrease_Click"
+                                IsEnabled="False"
+                                Style="{StaticResource specialButton}"></Button>
+                        <Button Name="btnDecrease" Content="-" 
+                                Width="35" Margin="15 0" Click="btnDecrease_Click"
+                                IsEnabled="False"
+                                Style="{StaticResource specialButton}"></Button>
+
+                        <Button Name="btnAddProduct"
+                                Width="103"
+                                Content="Thêm"
+                                IsEnabled="False"
+                                Click="btnAddProduct_Click"
+                                Margin="0 0 15 0"
+                                Style="{StaticResource specialButton}"></Button>
+
+                        <Button Name="btnSaveInvoice"
+                                Grid.Column="2" Content="Lưu" 
+                                HorizontalAlignment="Right" 
+                                Width="103"
+                                Click="btnSaveInvoice_Click"
+                                Style="{StaticResource specialButton}"/>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Name="spContainer" Grid.Column="1">
+                    <ScrollViewer Grid.Column="1" VerticalScrollBarVisibility="Visible" Height="{Binding ActualHeight, ElementName=spContainer}">
+                        <Border CornerRadius="20" BorderBrush="Gray" BorderThickness="2">
+                            <WrapPanel Name="wpContainer">
+
+                            </WrapPanel>
+                        </Border>
+                    </ScrollViewer>
+                </StackPanel>
+            </Grid>
+        </StackPanel>
+    </Grid>
+</UserControl>

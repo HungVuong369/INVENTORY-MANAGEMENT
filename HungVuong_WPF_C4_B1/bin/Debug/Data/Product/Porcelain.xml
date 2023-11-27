@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+  <Product Id="P980" Category="CAT2" Name="Chén sứ Tok" Producer="Thanh Hoài" PriceInput="50000" Material="Đất sét" />
+  <Product Id="P230" Category="CAT2" Name="Bình Cỗ Huế" Producer="Hùng Phát" PriceInput="1000000" Material="Đất sét" />
+  <Product Id="P350" Category="CAT2" Name="Cốc sứ" Producer="Thành Công" PriceInput="50000" Material="Sứ cao cấp" />
+  <Product Id="P306" Category="CAT2" Name="Tô sứ" Producer="Sứ Hưng Yên" PriceInput="50000" Material="Sứ nano" />
+</Products>

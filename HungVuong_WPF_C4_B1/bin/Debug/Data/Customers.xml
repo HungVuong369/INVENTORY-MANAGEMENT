@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Customers>
+  <Customer Name="HUNG VUONG" CardID="333" Phone="333" Points="5001" />
+  <Customer Name="DARK TRAN" CardID="123" Phone="123" Points="10001" />
+  <Customer Name="ANH QUOC" CardID="321" Phone="321" Points="5001" />
+  <Customer Name="ANH MINH" CardID="222" Phone="222" Points="5001" />
+  <Customer Name="THANH HUYEN" CardID="555" Phone="555" Points="0" />
+  <Customer Name="GIANG THANH" CardID="666" Phone="666" Points="0" />
+</Customers>

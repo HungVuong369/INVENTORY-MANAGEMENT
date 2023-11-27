@@ -1,0 +1,56 @@
+﻿<Window x:Class="HungVuong_WPF_C4_B1.CashierWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HungVuong_WPF_C4_B1"
+        mc:Ignorable="d"
+        Title="CashierWindow" Height="1000" Width="1000">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Border Background="#007ACC" Grid.Row="0" Padding="10">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Text="{Binding Account.Username, StringFormat='Xin chào {0}'}" Foreground="#FFFFFF" FontSize="20" HorizontalAlignment="Left"/>
+                <Button Name="btnLogout"
+                        Background="#006ACC" BorderBrush="White" Grid.Column="1" Content="Đăng xuất" HorizontalAlignment="Right"
+                        Width="100"
+                        Foreground="White"
+                        Click="btnLogout_Click"
+                        Style="{StaticResource specialButton}"></Button>
+            </Grid>
+        </Border>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="220"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Grid.Column="0" VerticalAlignment="Top" Margin="0">
+                <ListBox SelectionChanged="ListBox_SelectionChanged">
+                    <ListBoxItem Content="Xem khách hàng" Style="{StaticResource MenuStyle}" Tag="/Assets/Icon/4.png" FontSize="14" Height="55" Padding="10"/>
+                    <ListBoxItem Content="Tạo khách hàng" Style="{StaticResource MenuStyle}" Tag="/Assets/Icon/7.png" FontSize="14" Height="55" Padding="10"/>
+                    <ListBoxItem Content="Xóa khách hàng" Style="{StaticResource MenuStyle}" Tag="/Assets/Icon/10.png" FontSize="14" Height="55" Padding="10"/>
+                    <ListBoxItem Content="Tạo phiếu bán hàng" Style="{StaticResource MenuStyle}" Tag="/Assets/Icon/7.png" FontSize="14" Height="55" Padding="10"/>
+                    <ListBoxItem Name="lbiDetailOrder" Content="Xem chi tiết phiếu bán hàng" Style="{StaticResource MenuStyle}" Tag="/Assets/Icon/2.png" FontSize="14" Height="55" Padding="10"/>
+                    <ListBoxItem Name="lbiOrderByDate" Content="Xem phiếu bán hàng theo ngày" Style="{StaticResource MenuStyle}" Tag="/Assets/Icon/2.png" FontSize="14" Height="55" Padding="10"/>
+                    <ListBoxItem Content="Liệt kê hàng tồn" Style="{StaticResource MenuStyle}" Tag="/Assets/Icon/3.png" FontSize="14" Height="55" Padding="10"/>
+                    <ListBoxItem Content="Liệt kê hết hàng" Style="{StaticResource MenuStyle}" Tag="/Assets/Icon/3.png" FontSize="14" Height="55" Padding="10"/>
+                    <ListBoxItem Content="Thống kê" Style="{StaticResource MenuStyle}" Tag="/Assets/Icon/1.png" FontSize="14" Height="55" Padding="10"/>
+                </ListBox>
+            </StackPanel>
+
+            <Border Name="bdrContainerFeatures" Grid.Column="1" Background="#ECF0F1" Margin="0">
+
+            </Border>
+        </Grid>
+    </Grid>
+</Window>

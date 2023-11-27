@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Categories>
+  <Category Id="CAT1" Name="Electronic" />
+  <Category Id="CAT2" Name="Porcelain" />
+  <Category Id="CAT3" Name="Food" />
+</Categories>

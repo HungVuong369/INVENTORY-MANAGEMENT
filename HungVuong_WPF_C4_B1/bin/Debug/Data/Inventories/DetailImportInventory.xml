@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+  <Product No="1" Product="Tai nghe Sony Xperia Z1" Producer="Sony" Previous="0" AmountPrevious="0" Recent="10" AmountRecent="20000000" Date="08/08/2023" Quantity="10" Amount="20000000" ProductID="E102" />
+  <Product No="2" Product="Cốc sứ" Producer="Thành Công" Previous="0" AmountPrevious="0" Recent="5" AmountRecent="250000" Date="08/08/2023" Quantity="5" Amount="250000" ProductID="P350" />
+  <Product No="3" Product="Pizza" Producer="FastFood" Previous="0" AmountPrevious="0" Recent="3" AmountRecent="60000" Date="08/08/2023" Quantity="3" Amount="60000" ProductID="F0793" />
+</Products>

@@ -1,0 +1,194 @@
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Assets\icons.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Admin\Request\ucListRequest.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\CRUD\Create\Create Order\ConfirmOrder.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\CRUD\Create\Create Order\ucCreateOrder.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\CRUD\Create\Create Order\ucDetailOrder.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\CRUD\Create\Create Order\ucViewCardID.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\CRUD\Create\ucCreateCustomer.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Admin\Request\ConfirmRequest.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\CRUD\Delete\DeleteRequest.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\CRUD\Delete\ucDeleteCustomer.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\Views\StatisticsOrder.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\Views\ucCustomerInformation.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\Views\ucListingInventory.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\Views\ucOutOfInvoice.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\Views\ucViewCustomer.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\Search\ucViewDetailOrderById.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\Search\ucViewOrder.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Admin\Report\ucReportItem.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Create Invoice\ucCreateInvoice.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Create Invoice\ucDetailInvoice.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Create Receipt\ucCreateReceipt.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Create Receipt\ucDetailReceipt.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Search\ucSearchInvoiceByDate.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Search\ucSearchReceiptByDate.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Admin\Update\ucUpdatePrice.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Views\ucViewDetailInvoice.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Views\ucViewDetailReceipt.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Views\ucViewInventory.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Views\ucViewProductEpired.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Views\ViewProduct.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Share\ucInformationProduct.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Admin\Report\ucReport.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Views\AdminWindow.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Views\CashierWindow.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Views\LoginWindow.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Views\StockerWindow.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\HungVuong_WPF_C4_B1_MarkupCompile.cache
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\HungVuong_WPF_C4_B1_MarkupCompile.lref
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\bin\Debug\HungVuong_WPF_C4_B1.exe.config
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\bin\Debug\HungVuong_WPF_C4_B1.exe
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\bin\Debug\HungVuong_WPF_C4_B1.pdb
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\App.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Styles\Buttons.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Styles\Categories.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Styles\ComboBox.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Styles\DataGrid.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Styles\ListBox.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Styles\TextBoxs.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Styles\TreeView.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Admin\Request\ucListRequest.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\CRUD\Create\Create Order\ConfirmOrder.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\CRUD\Create\Create Order\ucCreateOrder.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\CRUD\Create\Create Order\ucDetailOrder.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\CRUD\Create\Create Order\ucViewCardID.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\CRUD\Create\ucCreateCustomer.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Admin\Request\ConfirmRequest.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\CRUD\Delete\DeleteRequest.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\CRUD\Delete\ucDeleteCustomer.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\Views\StatisticsOrder.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\Views\ucCustomerInformation.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\Views\ucListingInventory.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\Views\ucOutOfInvoice.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\Views\ucViewCustomer.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\Search\ucViewDetailOrderById.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\Search\ucViewOrder.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Admin\Report\ucReportItem.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Create Invoice\ucCreateInvoice.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Create Invoice\ucDetailInvoice.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Create Receipt\ucCreateReceipt.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Create Receipt\ucDetailReceipt.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Search\ucSearchInvoiceByDate.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Search\ucSearchReceiptByDate.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Admin\Update\ucUpdatePrice.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Views\ucViewDetailInvoice.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Views\ucViewDetailReceipt.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Views\ucViewInventory.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Views\ucViewProductEpired.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Views\ViewProduct.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Share\ucInformationProduct.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Admin\Report\ucReport.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Views\AdminWindow.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Views\CashierWindow.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Views\LoginWindow.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Views\StockerWindow.baml
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\HungVuong_WPF_C4_B1.g.resources
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\HungVuong_WPF_C4_B1.Properties.Resources.resources
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\HungVuong_WPF_C4_B1.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\HungVuong_WPF_C4_B1.exe
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\HungVuong_WPF_C4_B1.pdb
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\HungVuong_WPF_C4_B1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1++++\HungVuong_WPF_C4_B1\bin\Debug\HungVuong_WPF_C4_B1.exe.config
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1++++\HungVuong_WPF_C4_B1\obj\Debug\HungVuong_WPF_C4_B1.exe
+C:\Users\Admin\Desktop\PC Management\HocC\BTThayNam\4. WPF\HungVuong_WPF_C4_B1++++\HungVuong_WPF_C4_B1\obj\Debug\HungVuong_WPF_C4_B1.pdb
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\bin\Debug\HungVuong_WPF_C4_B1.exe.config
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\HungVuong_WPF_C4_B1.exe
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\HungVuong_WPF_C4_B1.pdb
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\bin\Debug\HungVuong_WPF_C4_B1.exe
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\bin\Debug\HungVuong_WPF_C4_B1.pdb
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\HungVuong_WPF_C4_B1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Assets\icons.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Admin\Request\ucListRequest.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\CRUD\Create\Create Order\ConfirmOrder.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\CRUD\Create\Create Order\ucCreateOrder.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\CRUD\Create\Create Order\ucDetailOrder.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\CRUD\Create\Create Order\ucViewCardID.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\CRUD\Create\ucCreateCustomer.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Admin\Request\ConfirmRequest.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\CRUD\Delete\DeleteRequest.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\CRUD\Delete\ucDeleteCustomer.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\Views\StatisticsOrder.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\Views\ucCustomerInformation.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\Views\ucListingInventory.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\Views\ucOutOfInvoice.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\Views\ucViewCustomer.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\Search\ucViewDetailOrderById.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\Search\ucViewOrder.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Admin\Report\ucReportItem.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Create Invoice\ucCreateInvoice.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Create Invoice\ucDetailInvoice.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Create Receipt\ucCreateReceipt.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Create Receipt\ucDetailReceipt.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Search\ucSearchInvoiceByDate.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Search\ucSearchReceiptByDate.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Admin\Update\ucUpdatePrice.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Views\ucViewDetailInvoice.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Views\ucViewDetailReceipt.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Views\ucViewInventory.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Views\ucViewProductEpired.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Views\ViewProduct.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Share\ucInformationProduct.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Admin\Report\ucReport.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Views\AdminWindow.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Views\CashierWindow.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Views\LoginWindow.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Views\StockerWindow.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\HungVuong_WPF_C4_B1_MarkupCompile.cache
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\HungVuong_WPF_C4_B1_MarkupCompile.lref
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\App.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Styles\Buttons.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Styles\Categories.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Styles\ComboBox.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Styles\DataGrid.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Styles\ListBox.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Styles\TextBoxs.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Styles\TreeView.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Admin\Request\ucListRequest.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\CRUD\Create\Create Order\ConfirmOrder.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\CRUD\Create\Create Order\ucCreateOrder.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\CRUD\Create\Create Order\ucDetailOrder.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\CRUD\Create\Create Order\ucViewCardID.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\CRUD\Create\ucCreateCustomer.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Admin\Request\ConfirmRequest.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\CRUD\Delete\DeleteRequest.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\CRUD\Delete\ucDeleteCustomer.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\Views\StatisticsOrder.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\Views\ucCustomerInformation.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\Views\ucListingInventory.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\Views\ucOutOfInvoice.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\Views\ucViewCustomer.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\Search\ucViewDetailOrderById.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Cashier\Search\ucViewOrder.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Admin\Report\ucReportItem.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Create Invoice\ucCreateInvoice.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Create Invoice\ucDetailInvoice.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Create Receipt\ucCreateReceipt.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Create Receipt\ucDetailReceipt.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Search\ucSearchInvoiceByDate.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Search\ucSearchReceiptByDate.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Admin\Update\ucUpdatePrice.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Views\ucViewDetailInvoice.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Views\ucViewDetailReceipt.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Views\ucViewInventory.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Views\ucViewProductEpired.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Stocker\Views\ViewProduct.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Share\ucInformationProduct.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\UserControls\Admin\Report\ucReport.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Views\AdminWindow.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Views\CashierWindow.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Views\LoginWindow.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\Views\StockerWindow.baml
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\HungVuong_WPF_C4_B1.g.resources
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\HungVuong_WPF_C4_B1.Properties.Resources.resources
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\HungVuong_WPF_C4_B1.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\QuanLyKhoHang\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\bin\Debug\HungVuong_WPF_C4_B1.exe.config
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\QuanLyKhoHang\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\HungVuong_WPF_C4_B1.exe
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\QuanLyKhoHang\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\HungVuong_WPF_C4_B1.pdb

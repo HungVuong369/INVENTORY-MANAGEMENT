@@ -1,0 +1,15 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:HungVuong_WPF_C4_B1">
+    <Style x:Key="ElectronicStyle" TargetType="Border">
+        <Setter Property="Background" Value="LightGray"></Setter>
+    </Style>
+
+    <Style x:Key="PorcelainStyle" TargetType="Border">
+        <Setter Property="Background" Value="WhiteSmoke"></Setter>
+    </Style>
+    
+    <Style x:Key="FoodStyle" TargetType="Border">
+        <Setter Property="Background" Value="LightGreen"></Setter>
+    </Style>
+</ResourceDictionary>

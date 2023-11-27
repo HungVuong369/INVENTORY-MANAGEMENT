@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Invoices>
+  <Invoice Id="PXK1" Username="stocker" Quantity="5" Total="12206000" Date="08/08/2023">
+    <InvoiceDetail Id="1" ProductID="E102" Name="Tai nghe Sony Xperia Z1" Producer="Sony" PriceInput="2000000" PriceOutput="2872000" Quantity="5" Total="12206000" />
+  </Invoice>
+</Invoices>

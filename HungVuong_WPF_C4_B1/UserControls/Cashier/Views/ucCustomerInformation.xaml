@@ -1,0 +1,50 @@
+﻿<UserControl x:Class="HungVuong_WPF_C4_B1.ucCustomerInformation"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:HungVuong_WPF_C4_B1"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <UserControl.Resources>
+        <local:ConvertPointsToCardType x:Key="pointToCardID"/>
+    </UserControl.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Label Content="Thông tin khách hàng" 
+               HorizontalAlignment="Center" 
+               FontSize="20"
+               FontWeight="SemiBold"
+               Grid.Row="0"></Label>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal">
+            <TextBlock Text="Tên khách hàng: " FontSize="16"></TextBlock>
+            <TextBlock Text="{Binding Name}" FontSize="16"></TextBlock>
+        </StackPanel>
+        
+        <StackPanel Grid.Row="2" Orientation="Horizontal">
+            <TextBlock Text="Số điện thoại: " FontSize="16"></TextBlock>
+            <TextBlock Text="{Binding Phone}" FontSize="16"></TextBlock>
+        </StackPanel>
+        <StackPanel Grid.Row="3" Orientation="Horizontal">
+            <TextBlock Text="Mã khách hàng: " FontSize="16"></TextBlock>
+            <TextBlock Text="{Binding CardID}" FontSize="16"></TextBlock>
+        </StackPanel>
+        <StackPanel Grid.Row="4" Orientation="Horizontal">
+            <TextBlock Text="Số điểm: " FontSize="16"></TextBlock>
+            <TextBlock Text="{Binding Points}" FontSize="16"></TextBlock>
+        </StackPanel>
+        <StackPanel Grid.Row="5" Orientation="Horizontal">
+            <TextBlock Text="Loại thẻ: " FontSize="16"></TextBlock>
+            <TextBlock Text="{Binding Points, Converter={StaticResource pointToCardID}}" FontSize="16"></TextBlock>
+        </StackPanel>
+    </Grid>
+</UserControl>

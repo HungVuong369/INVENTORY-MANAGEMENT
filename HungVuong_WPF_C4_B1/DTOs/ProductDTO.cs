@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace HungVuong_WPF_C4_B1
+{
+    public class ProductDTO
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Producer { get; set; }
+        public double PriceInput { get; set; }
+        public double PriceOutput { get; set; }
+    }
+}

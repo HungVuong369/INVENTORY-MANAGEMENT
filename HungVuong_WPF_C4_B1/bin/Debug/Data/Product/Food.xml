@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+  <Product Id="F0023" Category="CAT3" Name="Cà tím Đà Lạt" Producer="Việt Food" PriceInput="25000" MfgDate="09/12/2013" ExpDate="12/12/2013" />
+  <Product Id="F2223" Category="CAT3" Name="Bánh mì dinh dưỡng" Producer="Healthy" PriceInput="50000" MfgDate="12/06/2022" ExpDate="12/06/2023" />
+  <Product Id="F1423" Category="CAT3" Name="Thực phẩm sấy kho" Producer="Healthy" PriceInput="50000" MfgDate="10/05/2023" ExpDate="10/05/2024" />
+  <Product Id="F0793" Category="CAT3" Name="Pizza" Producer="FastFood" PriceInput="20000" MfgDate="15/05/2023" ExpDate="16/05/2023" />
+</Products>

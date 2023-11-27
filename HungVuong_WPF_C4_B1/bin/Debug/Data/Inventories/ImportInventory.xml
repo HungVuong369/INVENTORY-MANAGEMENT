@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+  <Product Id="E102" Category="CAT1" Name="Tai nghe Sony Xperia Z1" Producer="Sony" PriceInput="2000000" PriceOutput="2872000" Quantity="5" Total="10000000" />
+  <Product Id="P350" Category="CAT2" Name="Cốc sứ" Producer="Thành Công" PriceInput="50000" PriceOutput="71800" Quantity="5" Total="250000" />
+  <Product Id="F0793" Category="CAT3" Name="Pizza" Producer="FastFood" PriceInput="20000" PriceOutput="28720" Quantity="3" Total="60000" />
+</Products>

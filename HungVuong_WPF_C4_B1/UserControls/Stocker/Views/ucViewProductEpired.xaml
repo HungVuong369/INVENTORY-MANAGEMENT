@@ -1,0 +1,42 @@
+﻿<UserControl x:Class="HungVuong_WPF_C4_B1.ucViewProductEpired"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:HungVuong_WPF_C4_B1"
+             mc:Ignorable="d" 
+             Background="#ECF0F1"
+             d:DesignHeight="300" d:DesignWidth="300">
+    <UserControl.Resources>
+        <local:IndexDataGridItemConverter x:Key="index"/>
+    </UserControl.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Label Content="Liệt kê hết hạn" 
+               HorizontalAlignment="Center" 
+               FontSize="20"
+               FontWeight="SemiBold"
+               Grid.Row="0"></Label>
+
+        <DataGrid x:Name="dgExpired" Grid.Row="3" Margin="10" AutoGenerateColumns="False"
+                  AlternatingRowBackground="#F2F2F2" SelectionMode="Single" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="STT">
+                    <DataGridTextColumn.Binding>
+                        <Binding RelativeSource="{RelativeSource Mode=FindAncestor, AncestorType={x:Type DataGridRow}}"
+                                         Converter="{StaticResource index}" />
+                    </DataGridTextColumn.Binding>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Mã sản phẩm" Binding="{Binding Id}"/>
+                <DataGridTextColumn Header="Tên sản phẩm" Binding="{Binding Name}"/>
+                <DataGridTextColumn Header="Nhà cung cấp" Binding="{Binding Producer}"/>
+                <DataGridTextColumn Header="Ngày sản xuất" Binding="{Binding MfgDate, StringFormat='dd/MM/yyyy'}"/>
+                <DataGridTextColumn Header="Ngày hết hạn" Binding="{Binding ExpDate, StringFormat='dd/MM/yyyy'}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>

@@ -1,0 +1,70 @@
+﻿<UserControl x:Class="HungVuong_WPF_C4_B1.ucViewDetailOrderById"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:HungVuong_WPF_C4_B1"
+             mc:Ignorable="d" 
+             Background="#ECF0F1"
+             Loaded="UserControl_Loaded"
+             d:DesignHeight="300" d:DesignWidth="300">
+    <UserControl.Resources>
+        <local:Converter x:Key="converter" />
+    </UserControl.Resources>
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Label Content="Xem phiếu bán hàng theo mã" 
+               HorizontalAlignment="Center" 
+               FontSize="20"
+               FontWeight="SemiBold"
+               Grid.Row="0"></Label>
+
+        <StackPanel Grid.Row="1" Margin="10">
+            <Label Content="Nhập mã" FontSize="16"></Label>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <TextBox Name="txtInput" 
+                         Grid.Column="0" 
+                         Margin="0 0 5 0"
+                         Padding="5" PreviewTextInput="txtInput_PreviewTextInput"></TextBox>
+
+                <Button Name="btnView" Content="Xem"
+                    Click="btnView_Click"
+                        Grid.Column="1"></Button>
+            </Grid>
+        </StackPanel>
+
+        <DataGrid x:Name="dgOrder" Grid.Row="3" Margin="10" AutoGenerateColumns="False"
+                  AlternatingRowBackground="#F2F2F2" SelectionMode="Single" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="STT" Binding="{Binding Index}" Width="45"/>
+                <DataGridTextColumn Header="Người tạo" Binding="{Binding Username}" Width="100"/>
+                <DataGridTextColumn Header="Mã" Binding="{Binding Id}" Width="45"/>
+                <DataGridTextColumn Header="Tên sản phẩm" Binding="{Binding Name}" Width="200"/>
+                <DataGridTextColumn Header="Nhà sản xuất" Binding="{Binding Producer}" Width="100"/>
+                <DataGridTextColumn Header="Giá nhập" Binding="{Binding PriceInput, Converter={StaticResource converter}}" Width="100"/>
+                <DataGridTextColumn Header="Giá bán" Binding="{Binding PriceOutput, Converter={StaticResource converter}}" Width="100"/>
+                <DataGridTextColumn Header="Số lượng" Binding="{Binding Quantity}" Width="100">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Right"/>
+                            <Setter Property="Margin" Value="5"/>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Số tiền" Binding="{Binding Total, Converter={StaticResource converter}}" Width="100"/>
+                <DataGridTextColumn Header="Ngày tạo" Binding="{Binding CreatedAt}" Width="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>

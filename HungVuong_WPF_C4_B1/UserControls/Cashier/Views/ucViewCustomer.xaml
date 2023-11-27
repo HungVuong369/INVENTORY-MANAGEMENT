@@ -1,0 +1,60 @@
+﻿<UserControl x:Class="HungVuong_WPF_C4_B1.ucViewCustomer"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:HungVuong_WPF_C4_B1"
+             mc:Ignorable="d" 
+             Background="#ECF0F1"
+             d:DesignHeight="300" d:DesignWidth="300">
+    <UserControl.Resources>
+        <local:ConvertPointsToCardType x:Key="convertPointsToCardType" />
+        <local:IndexDataGridItemConverter x:Key="index"/>
+    </UserControl.Resources>
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        
+        <Label Content="Xem khách hàng" 
+               HorizontalAlignment="Center" 
+               FontSize="20"
+               FontWeight="SemiBold"
+               Grid.Row="0"></Label>
+        
+        <DataGrid x:Name="dgCustomer" Grid.Row="1" Margin="10" AutoGenerateColumns="False"
+                  AlternatingRowBackground="#F2F2F2" SelectionMode="Single"
+                  IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="STT">
+                    <DataGridTextColumn.Binding>
+                        <Binding RelativeSource="{RelativeSource Mode=FindAncestor, AncestorType={x:Type DataGridRow}}"
+                                         Converter="{StaticResource index}" />
+                    </DataGridTextColumn.Binding>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Mã thẻ" Binding="{Binding CardID}"/>
+                <DataGridTextColumn Header="Tên" Binding="{Binding Name}"/>
+                <DataGridTextColumn Header="Số điện thoại" Binding="{Binding Phone}"/>
+                <DataGridTextColumn Header="Điểm" Binding="{Binding Points, StringFormat=' {0:N0}'}"/>
+                <DataGridTextColumn Header="Loại thẻ" Binding="{Binding Points, Converter={StaticResource convertPointsToCardType}}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="Foreground" Value="White" />
+                            <Setter Property="Background" Value="Black" />
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding Points, Converter={StaticResource convertPointsToCardType}}" Value="Vàng">
+                                    <Setter Property="Foreground" Value="Yellow" />
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding Points, Converter={StaticResource convertPointsToCardType}}" Value="Bạch Kim">
+                                    <Setter Property="Foreground" Value="SkyBlue" />
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>

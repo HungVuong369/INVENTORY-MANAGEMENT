@@ -1,0 +1,20 @@
+﻿HungVuong_WPF_C4_B1
+
+
+winexe
+C#
+.cs
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\obj\Debug\
+HungVuong_WPF_C4_B1
+none
+false
+DEBUG;TRACE
+C:\Users\Admin\Desktop\PC Management\HocLapTrinh\BTThayNam\4. WPF\HungVuong_WPF_C4_B1\HungVuong_WPF_C4_B1\App.xaml
+44113102567
+
+941880373389
+13738642453
+Assets\icons.xaml;MainWindow.xaml;Styles\Buttons.xaml;Styles\Categories.xaml;Styles\ComboBox.xaml;Styles\DataGrid.xaml;Styles\ListBox.xaml;Styles\TextBoxs.xaml;Styles\TreeView.xaml;UserControls\Admin\Request\ucListRequest.xaml;UserControls\Cashier\CRUD\Create\Create Order\ConfirmOrder.xaml;UserControls\Cashier\CRUD\Create\Create Order\ucCreateOrder.xaml;UserControls\Cashier\CRUD\Create\Create Order\ucDetailOrder.xaml;UserControls\Cashier\CRUD\Create\Create Order\ucViewCardID.xaml;UserControls\Cashier\CRUD\Create\ucCreateCustomer.xaml;UserControls\Admin\Request\ConfirmRequest.xaml;UserControls\Cashier\CRUD\Delete\DeleteRequest.xaml;UserControls\Cashier\CRUD\Delete\ucDeleteCustomer.xaml;UserControls\Cashier\Views\StatisticsOrder.xaml;UserControls\Cashier\Views\ucCustomerInformation.xaml;UserControls\Cashier\Views\ucListingInventory.xaml;UserControls\Cashier\Views\ucOutOfInvoice.xaml;UserControls\Cashier\Views\ucViewCustomer.xaml;UserControls\Cashier\Search\ucViewDetailOrderById.xaml;UserControls\Cashier\Search\ucViewOrder.xaml;UserControls\Admin\Report\ucReportItem.xaml;UserControls\Stocker\Create Invoice\ucCreateInvoice.xaml;UserControls\Stocker\Create Invoice\ucDetailInvoice.xaml;UserControls\Stocker\Create Receipt\ucCreateReceipt.xaml;UserControls\Stocker\Create Receipt\ucDetailReceipt.xaml;UserControls\Stocker\Search\ucSearchInvoiceByDate.xaml;UserControls\Stocker\Search\ucSearchReceiptByDate.xaml;UserControls\Admin\Update\ucUpdatePrice.xaml;UserControls\Stocker\Views\ucViewDetailInvoice.xaml;UserControls\Stocker\Views\ucViewDetailReceipt.xaml;UserControls\Stocker\Views\ucViewInventory.xaml;UserControls\Stocker\Views\ucViewProductEpired.xaml;UserControls\Stocker\Views\ViewProduct.xaml;UserControls\Share\ucInformationProduct.xaml;UserControls\Admin\Report\ucReport.xaml;Views\AdminWindow.xaml;Views\CashierWindow.xaml;Views\LoginWindow.xaml;Views\StockerWindow.xaml;
+
+False
+
